@@ -1,0 +1,205 @@
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 0.5, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.308,AF:-0.1794
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 0.5, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.4065,AF:0.0872
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 5.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2547,AF:-0.2614
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 5.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2906,AF:0.0511
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 50.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3054,AF:-0.2423
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 50.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2894,AF:0.0329
+
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.351,AF:-0.1493
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.4464,AF:0.1399
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 5.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2613,AF:-0.21
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 5.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.406,AF:0.1571
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 50.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3379,AF:-0.0682
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 50.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3379,AF:0.0753
+
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 0.5, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3052,AF:-0.2787
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 0.5, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3513,AF:-0.153
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 0.5, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3754,AF:0.0759
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 0.5, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.4061,AF:0.1793
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 5.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2763,AF:-0.3158
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 5.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3207,AF:-0.2219
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 5.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3039,AF:0.0407
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 5.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3084,AF:0.0149
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[10, 50.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2524,AF:-0.2812
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[20, 50.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3454,AF:-0.1099
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[100, 50.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3537,AF:0.0929
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[200, 50.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3382,AF:0.0876
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 0.5, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3327,AF:-0.0025
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 5.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3684,AF:0.0481
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 50.0, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3951,AF:0.0734
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 0.5, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3894,AF:0.0887
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3498,AF:0.0956
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 5.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3723,AF:0.1246
+clsIL/0.8/val_Aromaticity-CL_2_ergnn_[50, 50.0, 'random']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3692,AF:0.0603
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 5.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3604,AF:0.1464
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 50.0, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3657,AF:0.1344
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 0.5, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3765,AF:0.0945
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 5.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2816,AF:0.042
+clsIL/0.8/val_Aromaticity-CL_2_erreplace_[100, 50.0, 'random', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3547,AF:0.0733
+clsIL/0.8/val_Aromaticity-CL_2_sl_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3564,AF:0.0656
+
+
+
+clsIL/0.8/val_ENZYMES-CL_2_bare_[None]_GCN_[64, 64]_False_bs128_100_5
+AP:0.25,AF:-0.65
+
+
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3833,AF:-0.375
+
+
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3,AF:-0.325
+
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3333,AF:-0.35
+
+clsIL/0.8/val_ENZYMES-CL_2_dce_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3333,AF:-0.35
+
+clsIL/0.8/val_ENZYMES-CL_2_sl_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3333,AF:-0.425
+
+clsIL/0.8/val_ENZYMES-CL_2_sl_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3833,AF:-0.175
+
+clsIL/0.8/val_ENZYMES-CL_2_our_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.3333,AF:-0.525
+
+clsIL/0.8/val_ENZYMES-CL_2_our_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_5
+AP:0.35,AF:-0.425
+
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.1583,AF:-0.175
+
+clsIL/0.8/val_ENZYMES-CL_2_ewc_[10000.0]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3,AF:-0.675
+clsIL/0.8/val_ENZYMES-CL_2_ewc_[1000000.0]_GCN_[64, 64]_False_bs128_100_2
+AP:0.25,AF:-0.575
+
+clsIL/0.8/val_ENZYMES-CL_2_mas_[10000.0]_GCN_[64, 64]_False_bs128_100_2
+AP:0.25,AF:-0.375
+
+clsIL/0.8/val_ENZYMES-CL_2_gem_[0.5, 100]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3,AF:-0.675
+
+
+clsIL/0.8/val_ENZYMES-CL_2_bare_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2333,AF:-0.7
+clsIL/0.8/val_ENZYMES-CL_2_bare_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2833,AF:-0.625
+
+clsIL/0.8/val_ENZYMES-CL_2_ergnn_[10, 0.05, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.2667,AF:-0.475
+clsIL/0.8/val_ENZYMES-CL_2_ergnn_[10, 0.05, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.25,AF:-0.55
+clsIL/0.8/val_ENZYMES-CL_2_ergnn_[10, 0.5, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.4,AF:-0.375
+clsIL/0.8/val_ENZYMES-CL_2_ergnn_[10, 0.5, 'CM']_GCN_[64, 64]_False_bs128_100_2
+AP:0.3833,AF:-0.425
+
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3333,AF:-0.375
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2667,AF:-0.425
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2833,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2667,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3333,AF:-0.425
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.4167,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_erreplace_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3333,AF:-0.475
+
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.4,AF:-0.3
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.35,AF:-0.35
+clsIL/0.8/val_ENZYMES-CL_2_dce_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3667,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_200_2
+AP:0.35,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.2667,AF:-0.425
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3667,AF:-0.3
+clsIL/0.8/val_ENZYMES-CL_2_dce_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3167,AF:-0.45
+
+
+clsIL/0.8/val_ENZYMES-CL_2_twp_[10000.0, 100.0, 0.1]_GCN_[64, 64]_False_bs128_100_2
+AP:0.1167,AF:-0.8
+
+clsIL/0.8/val_ENZYMES-CL_2_sl_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.35,AF:-0.325
+clsIL/0.8/val_ENZYMES-CL_2_sl_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3167,AF:-0.225
+clsIL/0.8/val_ENZYMES-CL_2_sl_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3667,AF:-0.325
+
+clsIL/0.8/val_ENZYMES-CL_2_our_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3167,AF:-0.475
+clsIL/0.8/val_ENZYMES-CL_2_our_[200, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.4167,AF:-0.3
+clsIL/0.8/val_ENZYMES-CL_2_our_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3167,AF:-0.475
+clsIL/0.8/val_ENZYMES-CL_2_our_[20, 0.05, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.25,AF:-0.475
+clsIL/0.8/val_ENZYMES-CL_2_our_[20, 0.5, 'CM', 0.5]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3,AF:-0.525
+
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.1639,AF:-0.2375
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.15,AF:-0.3625
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.3,AF:-0.05
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_100_2
+AP:0.8028,AF:0.1
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_200_2
+AP:0.1167,AF:-0.3
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_200_2
+AP:0.7667,AF:0.25
+clsIL/0.8/val_ENZYMES-CL_2_jointtrain_[None]_GCN_[64, 64]_False_bs128_200_2
+AP:0.7833,AF:0.2375
+
+
